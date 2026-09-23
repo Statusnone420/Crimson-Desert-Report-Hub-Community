@@ -1,0 +1,18 @@
+name: Feature request
+description: Suggest an improvement to the website or reader guides.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What should this help you do?
+      description: Describe the problem or missing information.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you change?
+    validations:
+      required: true

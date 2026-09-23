@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and discussion
+    url: https://github.com/Statusnone420/Crimson-Desert-Report-Hub-Community/discussions
+    about: Ask a question, share an idea, or discuss the Hub.
+  - name: Anonymous game-issue check-ins
+    url: https://crimsonreporthub.com/issues
+    about: Add your experience to an existing game issue on the current patch.
+  - name: Crimson Desert game or account support
+    url: https://support.pearlabyss.com/
+    about: Contact Pearl Abyss for official support.

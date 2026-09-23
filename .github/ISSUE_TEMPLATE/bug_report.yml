@@ -1,0 +1,40 @@
+name: Website bug
+description: Report something broken on Crimson Desert Report Hub.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for website problems. For game or account support, contact [Pearl Abyss](https://support.pearlabyss.com/).
+        This issue will be public. Do not include passwords, account details, private messages, or personal logs.
+  - type: input
+    id: page
+    attributes:
+      label: Hub page
+      description: Paste the public address of the affected page.
+      placeholder: https://crimsonreporthub.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Explain how to see the problem using public pages.
+  - type: textarea
+    id: context
+    attributes:
+      label: Browser and device
+      description: Include browser, device, and screenshots if useful. Remove personal information from screenshots.
