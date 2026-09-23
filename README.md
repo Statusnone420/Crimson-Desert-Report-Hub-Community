@@ -4,7 +4,7 @@ Crimson Desert news, original reports, official updates, and the player record �
 
 [Read the newspaper](https://crimsonreporthub.com/) · [Reader wiki](https://github.com/Statusnone420/Crimson-Desert-Report-Hub-Community/wiki) · [Report a site problem](https://github.com/Statusnone420/Crimson-Desert-Report-Hub-Community/issues/new/choose) · [Discussions](https://github.com/Statusnone420/Crimson-Desert-Report-Hub-Community/discussions)
 
-I run Crimson Desert Report Hub as an independent fan newspaper. This is its public community space: reader guides, corrections, website issues, ideas, and discussion. Application development lives in a separate repository.
+Crimson Desert Report Hub is run as an independent fan website. This is its public community space: reader guides, corrections, website issues, ideas, and discussion. 
 
 ## Explore the Hub
 
